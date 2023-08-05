@@ -1,6 +1,8 @@
 This is a Python object detection project using Roboflow to train the datasets and OpenCV to label the objects in the videos.  The videos used are in "upoads" foldler. 
 
-Here is some sample pictures. P.S. The webpage is actually playing a video but since I screenshot it, it appears like a picture.
+
+
+Here are some sample pictures: (P.S. The webpage is actually playing a video but since I screenshot it, it appears like a picture.)
 
 
 <img width="928" alt="1home" src="https://github.com/ntv97/ObjectDetection-Roboflow/assets/79057587/61db26dc-faf1-4a79-a382-c56f3b5168a9">
